@@ -20,8 +20,8 @@ http://www.softperfect.com
 
 Release Notes:
 
-5.2.11 Dev Test 2 (12/15/2013) 
+5.2.11 Dev Test 2 (2013-12-15) 
   - Online Installer
 
-5.2.11 Dev Test 1 (12/12/2013)
+5.2.11 Dev Test 1 (2013-12-12)
   - Initial Releasae
